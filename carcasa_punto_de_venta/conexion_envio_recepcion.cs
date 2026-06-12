@@ -23,9 +23,9 @@ namespace carcasa_punto_de_venta
 
 
         string[] G_linea;        
-        public string direccion_archivo_info_entrada = @"C:\conexion_arc\archivo_entrada.txt";
-        public string direccion_archivo_info_salida = @"C:\conexion_arc\archivo_salida.txt";
-        public string direccion_archivo_info_error = @"C:\conexion_arc\error.txt";
+        public string direccion_archivo_info_entrada = @"C:\sys\archivo_entrada_carcasa.txt";
+        public string direccion_archivo_info_salida = @"C:\sys\archivo_salida_carcasa.txt";
+        public string direccion_archivo_info_error = @"C:\sys\error_carcasa.txt";
 
 
 
