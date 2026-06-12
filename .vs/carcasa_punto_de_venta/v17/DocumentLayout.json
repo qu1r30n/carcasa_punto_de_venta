@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\qu1r30n\\Documents\\GitHub\\carcasa_punto_de_venta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A46DA238-4FF9-4760-8CFA-1CA6EA6292DA}|carcasa_punto_de_venta\\carcasa_punto_de_venta.csproj|c:\\users\\qu1r30n\\documents\\github\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46DA238-4FF9-4760-8CFA-1CA6EA6292DA}|carcasa_punto_de_venta\\carcasa_punto_de_venta.csproj|solutionrelative:carcasa_punto_de_venta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46DA238-4FF9-4760-8CFA-1CA6EA6292DA}|carcasa_punto_de_venta\\carcasa_punto_de_venta.csproj|c:\\users\\qu1r30n\\documents\\github\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\conexion_envio_recepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46DA238-4FF9-4760-8CFA-1CA6EA6292DA}|carcasa_punto_de_venta\\carcasa_punto_de_venta.csproj|solutionrelative:carcasa_punto_de_venta\\conexion_envio_recepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46DA238-4FF9-4760-8CFA-1CA6EA6292DA}|carcasa_punto_de_venta\\carcasa_punto_de_venta.csproj|c:\\users\\qu1r30n\\documents\\github\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\var_fun_gg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46DA238-4FF9-4760-8CFA-1CA6EA6292DA}|carcasa_punto_de_venta\\carcasa_punto_de_venta.csproj|solutionrelative:carcasa_punto_de_venta\\var_fun_gg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A46DA238-4FF9-4760-8CFA-1CA6EA6292DA}|carcasa_punto_de_venta\\carcasa_punto_de_venta.csproj|c:\\users\\qu1r30n\\documents\\github\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A46DA238-4FF9-4760-8CFA-1CA6EA6292DA}|carcasa_punto_de_venta\\carcasa_punto_de_venta.csproj|solutionrelative:carcasa_punto_de_venta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,18 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "conexion_envio_recepcion.cs",
+              "DocumentMoniker": "C:\\Users\\qu1r30n\\Documents\\GitHub\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\conexion_envio_recepcion.cs",
+              "RelativeDocumentMoniker": "carcasa_punto_de_venta\\conexion_envio_recepcion.cs",
+              "ToolTip": "C:\\Users\\qu1r30n\\Documents\\GitHub\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\conexion_envio_recepcion.cs",
+              "RelativeToolTip": "carcasa_punto_de_venta\\conexion_envio_recepcion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T14:00:05.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "var_fun_GG.cs",
+              "DocumentMoniker": "C:\\Users\\qu1r30n\\Documents\\GitHub\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\var_fun_GG.cs",
+              "RelativeDocumentMoniker": "carcasa_punto_de_venta\\var_fun_GG.cs",
+              "ToolTip": "C:\\Users\\qu1r30n\\Documents\\GitHub\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\var_fun_GG.cs",
+              "RelativeToolTip": "carcasa_punto_de_venta\\var_fun_GG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:20:05.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\qu1r30n\\Documents\\GitHub\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\Form1.cs",
+              "RelativeDocumentMoniker": "carcasa_punto_de_venta\\Form1.cs",
+              "ToolTip": "C:\\Users\\qu1r30n\\Documents\\GitHub\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\Form1.cs",
+              "RelativeToolTip": "carcasa_punto_de_venta\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T13:51:32.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\qu1r30n\\Documents\\GitHub\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\Form1.cs",
               "RelativeDocumentMoniker": "carcasa_punto_de_venta\\Form1.cs",
               "ToolTip": "C:\\Users\\qu1r30n\\Documents\\GitHub\\carcasa_punto_de_venta\\carcasa_punto_de_venta\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "carcasa_punto_de_venta\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T22:55:04.177Z",
+              "WhenOpened": "2026-06-05T13:51:17.983Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

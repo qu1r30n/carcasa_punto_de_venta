@@ -1,0 +1,13 @@
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\bin\Debug\carcasa_punto_de_venta.exe.config
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\bin\Debug\carcasa_punto_de_venta.exe
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\bin\Debug\carcasa_punto_de_venta.pdb
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\obj\Debug\carcasa_punto_de_venta.csproj.AssemblyReference.cache
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\obj\Debug\carcasa_punto_de_venta.Form1.resources
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\obj\Debug\carcasa_punto_de_venta.formularios.area_principal.resources
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\obj\Debug\carcasa_punto_de_venta.formularios.Ventas.resources
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\obj\Debug\carcasa_punto_de_venta.Properties.Resources.resources
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\obj\Debug\carcasa_punto_de_venta.csproj.GenerateResource.cache
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\obj\Debug\carcasa_punto_de_venta.csproj.CoreCompileInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\obj\Debug\carcasa_punto_de_venta.exe
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\obj\Debug\carcasa_punto_de_venta.pdb
+C:\Users\qu1r30n\Documents\GitHub\carcasa_punto_de_venta\carcasa_punto_de_venta\obj\Debug\carcasa_punto_de_venta.exe.config
